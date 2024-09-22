@@ -1,0 +1,665 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sat, 21 Sep 2024 21:47:53 at https://melodietang.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://melodietang.com/ -O "/home/nemanja/Desktop/eirc_upwork" -n -%P -p7 -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:47:55	Warning: 	Note: due to https://melodietang.com remote robots.txt rules, links beginning with these path will be forbidden: /unfinished-sky-xfcbjko, /susan-spano-jkwrnbs (see in the options to disable this)
+21:48:34	Error: 	"Method Not Allowed" (405) at link https://melodietang.com/xmlrpc.php (from https://melodietang.com/)
+21:48:35	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://melodietang.com/)
+21:48:36	Warning: 	Moved Permanently for s.w.org/robots.txt
+21:48:36	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+21:48:36	Warning: 	Moved Permanently for s.w.org/
+21:48:36	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+21:49:53	Warning: 	Warning: store text/html without scan: /home/nemanja/Desktop/eirc_upwork/gmpg.org/xfn/.html
+21:49:53	Warning: 	Warning: store text/html without scan: /home/nemanja/Desktop/eirc_upwork/gmpg.org/xfn/intro.html
+21:49:53	Warning: 	Warning: store text/html without scan: /home/nemanja/Desktop/eirc_upwork/gmpg.org/xfn/faq.html
+21:49:53	Warning: 	Moved Permanently for https://melodietang.com/?p=403
+21:49:53	Warning: 	File has moved from https://melodietang.com/?p=403 to https://melodietang.com/resume-2/
+21:49:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fresume-2%2F&format=xml (from https://melodietang.com/resume-2/)
+21:49:53	Warning: 	Moved Permanently for https://melodietang.com/?p=1106
+21:49:53	Warning: 	File has moved from https://melodietang.com/?p=1106 to https://melodietang.com/projects-2/
+21:49:53	Warning: 	Moved Permanently for https://melodietang.com/?p=1098
+21:49:53	Warning: 	File has moved from https://melodietang.com/?p=1098 to https://melodietang.com/be-like-peter-project/
+21:54:23	Warning: 	Moved Permanently for https://melodietang.com/?p=467
+21:54:23	Warning: 	File has moved from https://melodietang.com/?p=467 to https://melodietang.com/stuck-at-home/
+21:54:23	Warning: 	Moved Permanently for https://melodietang.com/?p=991
+21:54:23	Warning: 	File has moved from https://melodietang.com/?p=991 to https://melodietang.com/pregnancy-prep-overview/
+21:54:36	Warning: 	Moved Permanently for https://melodietang.com/?p=1113
+21:54:36	Warning: 	File has moved from https://melodietang.com/?p=1113 to https://melodietang.com/doodles/
+21:54:45	Warning: 	Moved Permanently for https://melodietang.com/?p=822
+21:54:45	Warning: 	File has moved from https://melodietang.com/?p=822 to https://melodietang.com/blog/aaron-frazin-charlie-app/
+21:55:01	Warning: 	Moved Permanently for https://melodietang.com/?p=657
+21:55:01	Warning: 	File has moved from https://melodietang.com/?p=657 to https://melodietang.com/blog/brian-hill-jail-education-solutions/
+21:55:05	Warning: 	Moved Permanently for https://melodietang.com/?p=838
+21:55:05	Warning: 	File has moved from https://melodietang.com/?p=838 to https://melodietang.com/blog/chris-mantz-drift-eyewear/
+21:55:07	Warning: 	Moved Permanently for https://melodietang.com/?p=812
+21:55:07	Warning: 	File has moved from https://melodietang.com/?p=812 to https://melodietang.com/blog/claire-lew-know-your-company/
+21:55:07	Warning: 	Moved Permanently for https://melodietang.com/?p=826
+21:55:07	Warning: 	File has moved from https://melodietang.com/?p=826 to https://melodietang.com/blog/corbett-drummey-popular-pays/
+21:55:14	Warning: 	Moved Permanently for https://melodietang.com/?p=831
+21:55:14	Warning: 	File has moved from https://melodietang.com/?p=831 to https://melodietang.com/blog/dan-novaes-mobilex-labs/
+21:55:19	Warning: 	Moved Permanently for https://melodietang.com/?p=823
+21:55:19	Warning: 	File has moved from https://melodietang.com/?p=823 to https://melodietang.com/blog/deepak-goel-karmacircles/
+21:55:24	Warning: 	Moved Permanently for https://melodietang.com/?p=670
+21:55:24	Warning: 	File has moved from https://melodietang.com/?p=670 to https://melodietang.com/blog/eliad-inbar-tangiblee-2/
+21:55:30	Warning: 	Moved Permanently for https://melodietang.com/?p=833
+21:55:30	Warning: 	File has moved from https://melodietang.com/?p=833 to https://melodietang.com/blog/hillary-sawchuk-a-drink-with/
+21:55:30	Warning: 	Moved Permanently for https://melodietang.com/?p=663
+21:55:30	Warning: 	File has moved from https://melodietang.com/?p=663 to https://melodietang.com/blog/jason-kunesh-public-good/
+21:55:30	Warning: 	Moved Permanently for https://melodietang.com/?p=818
+21:55:30	Warning: 	File has moved from https://melodietang.com/?p=818 to https://melodietang.com/blog/jay-savsani-meal-sharing/
+21:55:39	Warning: 	Moved Permanently for https://melodietang.com/?p=821
+21:55:39	Warning: 	File has moved from https://melodietang.com/?p=821 to https://melodietang.com/blog/jeremy-balboni-brooklyn-boulders-chicago/
+21:55:48	Warning: 	Moved Permanently for https://melodietang.com/?p=106
+21:55:48	Warning: 	File has moved from https://melodietang.com/?p=106 to https://melodietang.com/blog/jeremy-klein-table-savvy/
+21:55:48	Error: 	"Not Found" (404) at link https://melodietang.com/blog/jeremy-klein-table-savvy/johnroseillustration.com (from https://melodietang.com/blog/jeremy-klein-table-savvy/)
+21:55:48	Warning: 	Moved Permanently for https://melodietang.com/?p=28
+21:55:48	Warning: 	File has moved from https://melodietang.com/?p=28 to https://melodietang.com/blog/jimmy-odom-wedeliver/
+21:55:48	Warning: 	Moved Permanently for https://melodietang.com/?p=701
+21:55:48	Warning: 	File has moved from https://melodietang.com/?p=701 to https://melodietang.com/blog/julie-schumacher-well-turned-words/
+21:55:48	Warning: 	Moved Permanently for https://melodietang.com/?p=837
+21:55:48	Warning: 	File has moved from https://melodietang.com/?p=837 to https://melodietang.com/blog/kathryn-pisco-unearth-the-world/
+21:55:48	Warning: 	Moved Permanently for https://melodietang.com/?p=813
+21:55:48	Warning: 	File has moved from https://melodietang.com/?p=813 to https://melodietang.com/blog/katie-hench-infiniteach/
+21:55:48	Warning: 	Moved Permanently for https://melodietang.com/?p=835
+21:55:48	Warning: 	File has moved from https://melodietang.com/?p=835 to https://melodietang.com/blog/katlin-smith-simple-mills/
+21:56:00	Warning: 	Moved Permanently for https://melodietang.com/?p=732
+21:56:00	Warning: 	File has moved from https://melodietang.com/?p=732 to https://melodietang.com/blog/kris-petersen-mac-and-mia/
+21:56:00	Warning: 	Moved Permanently for https://melodietang.com/?p=811
+21:56:00	Warning: 	File has moved from https://melodietang.com/?p=811 to https://melodietang.com/blog/lauren-katzberg-the-stylisted/
+21:56:00	Warning: 	Moved Permanently for https://melodietang.com/?p=689
+21:56:00	Warning: 	File has moved from https://melodietang.com/?p=689 to https://melodietang.com/blog/levi-baer/
+21:56:00	Warning: 	Moved Permanently for https://melodietang.com/?p=719
+21:56:00	Warning: 	File has moved from https://melodietang.com/?p=719 to https://melodietang.com/blog/martin-mcgovern-and-rajiv-nathan-idea-lemon/
+21:56:16	Warning: 	Moved Permanently for https://melodietang.com/?p=815
+21:56:16	Warning: 	File has moved from https://melodietang.com/?p=815 to https://melodietang.com/blog/mike-garg-gozent/
+21:56:16	Warning: 	Moved Permanently for https://melodietang.com/?p=834
+21:56:16	Warning: 	File has moved from https://melodietang.com/?p=834 to https://melodietang.com/blog/mike-preuss-visible/
+21:56:16	Warning: 	Moved Permanently for https://melodietang.com/?p=817
+21:56:16	Warning: 	File has moved from https://melodietang.com/?p=817 to https://melodietang.com/blog/neal-sales-griffin-starter-league/
+21:56:16	Warning: 	Moved Permanently for https://melodietang.com/?p=743
+21:56:16	Warning: 	File has moved from https://melodietang.com/?p=743 to https://melodietang.com/blog/nicole-yeary-ms-tech/
+21:56:16	Warning: 	Moved Permanently for https://melodietang.com/?p=819
+21:56:16	Warning: 	File has moved from https://melodietang.com/?p=819 to https://melodietang.com/blog/raj-karmani-zero-percent/
+21:56:16	Warning: 	Moved Permanently for https://melodietang.com/?p=832
+21:56:16	Warning: 	File has moved from https://melodietang.com/?p=832 to https://melodietang.com/blog/riana-lynn-food-trace/
+21:56:16	Warning: 	Moved Permanently for https://melodietang.com/?p=704
+21:56:16	Warning: 	File has moved from https://melodietang.com/?p=704 to https://melodietang.com/blog/rose-afriyie-mrelief/
+21:56:19	Warning: 	Moved Permanently for https://melodietang.com/?p=824
+21:56:19	Warning: 	File has moved from https://melodietang.com/?p=824 to https://melodietang.com/blog/ross-petersen-blitsy/
+21:56:19	Warning: 	Moved Permanently for https://melodietang.com/?p=827
+21:56:19	Warning: 	File has moved from https://melodietang.com/?p=827 to https://melodietang.com/blog/sarah-press-project-fixup/
+21:56:19	Warning: 	Moved Permanently for https://melodietang.com/?p=460
+21:56:19	Warning: 	File has moved from https://melodietang.com/?p=460 to https://melodietang.com/blog/shannon-downey-pivotal-production/
+21:56:19	Warning: 	Moved Permanently for https://melodietang.com/?p=671
+21:56:19	Warning: 	File has moved from https://melodietang.com/?p=671 to https://melodietang.com/blog/shiv-rajendran-totus-power/
+21:56:25	Warning: 	Moved Permanently for https://melodietang.com/?p=828
+21:56:25	Warning: 	File has moved from https://melodietang.com/?p=828 to https://melodietang.com/blog/steven-dyme-flowers-for-dreams/
+21:56:25	Warning: 	Moved Permanently for https://melodietang.com/?p=814
+21:56:25	Warning: 	File has moved from https://melodietang.com/?p=814 to https://melodietang.com/blog/shivani-jain-fitness-cubed/
+21:56:31	Warning: 	Moved Permanently for https://melodietang.com/?p=750
+21:56:31	Warning: 	File has moved from https://melodietang.com/?p=750 to https://melodietang.com/blog/ted-gonder-moneythink/
+21:56:31	Warning: 	Moved Permanently for https://melodietang.com/?p=816
+21:56:31	Warning: 	File has moved from https://melodietang.com/?p=816 to https://melodietang.com/blog/tiffaney-florentine-trodo/
+21:56:31	Warning: 	Moved Permanently for https://melodietang.com/?p=979
+21:56:31	Warning: 	File has moved from https://melodietang.com/?p=979 to https://melodietang.com/hospital-bag-retro/
+21:56:31	Warning: 	Moved Permanently for https://melodietang.com/?p=1009
+21:56:31	Warning: 	File has moved from https://melodietang.com/?p=1009 to https://melodietang.com/doulas/
+21:56:31	Warning: 	Moved Permanently for https://melodietang.com/?p=1001
+21:56:31	Warning: 	File has moved from https://melodietang.com/?p=1001 to https://melodietang.com/day-1-stuff-list/
+21:56:31	Warning: 	Moved Permanently for https://melodietang.com/?p=1018
+21:56:31	Warning: 	File has moved from https://melodietang.com/?p=1018 to https://melodietang.com/post-delivery-support/
+21:56:31	Warning: 	Moved Permanently for https://melodietang.com/?p=1026
+21:56:31	Warning: 	File has moved from https://melodietang.com/?p=1026 to https://melodietang.com/breastfeeding/
+21:56:32	Warning: 	Moved Permanently for https://melodietang.com/?p=645
+21:56:32	Warning: 	File has moved from https://melodietang.com/?p=645 to https://melodietang.com/blog/throw-back-thursdays-may/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=830
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=830 to https://melodietang.com/blog/eliad-inbar-tangiblee/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=825
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=825 to https://melodietang.com/blog/throw-back-thursdays-feb-2015/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=674
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=674 to https://melodietang.com/blog/throw-back-thursdays-june-2015/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=836
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=836 to https://melodietang.com/blog/throw-back-thursdays-april-2015/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=820
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=820 to https://melodietang.com/blog/throw-back-thursdays-jan-2015/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=640
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=640 to https://melodietang.com/blog/happy-thanksgiving/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=738
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=738 to https://melodietang.com/blog/elizabeth-peterson-eastwood-group/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=643
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=643 to https://melodietang.com/blog/happy-holidays-and-merry-christmas/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=644
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=644 to https://melodietang.com/blog/happy-new-year/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=829
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=829 to https://melodietang.com/blog/throw-back-thursdays-march-2015/
+21:56:35	Warning: 	Moved Permanently for https://melodietang.com/?p=763
+21:56:35	Warning: 	File has moved from https://melodietang.com/?p=763 to https://melodietang.com/blog/ben-rosenfield-hero/
+21:56:35	Warning: 	Found for https://melodietang.com/wp-admin/
+21:56:35	Warning: 	File has moved from https://melodietang.com/wp-admin/ to https://melodietang.com/wp-login.php?redirect_to=https%3A%2F%2Fmelodietang.com%2Fwp-admin%2F&reauth=1
+21:56:43	Error: 	"Not Found" (404) at link https://melodietang.com/wp-admin/&reauth=1 (from https://melodietang.com/wp-login.php?redirect_to=https%3A%2F%2Fmelodietang.com%2Fwp-admin%2F%26reauth=1)
+21:56:43	Warning: 	HTML file (51572 bytes) retransferred due to lack of cache: https://melodietang.com/wp-json/
+21:56:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2F
+21:56:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2F&format=xml
+21:56:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fresume-2%2F
+21:56:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fprojects-2%2F
+21:56:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fprojects-2%2F&format=xml
+21:56:51	Warning: 	HTML file (720 bytes) retransferred due to lack of cache: https://melodietang.com/stuck-at-home/feed/
+21:56:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fbe-like-peter-project%2F&format=xml
+21:56:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fbe-like-peter-project%2F
+21:56:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fstuck-at-home%2F
+21:56:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fstuck-at-home%2F&format=xml
+21:56:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fpregnancy-prep-overview%2F
+21:56:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fpregnancy-prep-overview%2F&format=xml
+21:56:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fdoodles%2F
+21:56:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fdoodles%2F&format=xml
+21:57:02	Warning: 	HTML file (772 bytes) retransferred due to lack of cache: https://melodietang.com/blog/aaron-frazin-charlie-app/feed/
+21:57:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fresume-2%2F&format=xml
+21:57:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Faaron-frazin-charlie-app%2F
+21:57:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Faaron-frazin-charlie-app%2F&format=xml
+21:57:06	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: https://melodietang.com/blog/brian-hill-jail-education-solutions/feed/
+21:57:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fbrian-hill-jail-education-solutions%2F
+21:57:08	Error: 	"Not Found" (404) at link https://melodietang.com/xmlrpc.php?rsd (from https://melodietang.com/)
+21:57:09	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://melodietang.com/blog/chris-mantz-drift-eyewear/feed/
+21:57:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fbrian-hill-jail-education-solutions%2F&format=xml
+21:57:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fchris-mantz-drift-eyewear%2F
+21:57:13	Warning: 	HTML file (784 bytes) retransferred due to lack of cache: https://melodietang.com/blog/claire-lew-know-your-company/feed/
+21:57:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fchris-mantz-drift-eyewear%2F&format=xml
+21:57:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fclaire-lew-know-your-company%2F&format=xml
+21:57:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fclaire-lew-know-your-company%2F
+21:57:17	Warning: 	HTML file (784 bytes) retransferred due to lack of cache: https://melodietang.com/blog/corbett-drummey-popular-pays/feed/
+21:57:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fcorbett-drummey-popular-pays%2F
+21:57:23	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://melodietang.com/blog/dan-novaes-mobilex-labs/feed/
+21:57:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fcorbett-drummey-popular-pays%2F&format=xml
+21:57:25	Warning: 	HTML file (772 bytes) retransferred due to lack of cache: https://melodietang.com/blog/deepak-goel-karmacircles/feed/
+21:57:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fdan-novaes-mobilex-labs%2F&format=xml
+21:57:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fdeepak-goel-karmacircles%2F&format=xml
+21:57:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fdeepak-goel-karmacircles%2F
+21:57:29	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://melodietang.com/blog/eliad-inbar-tangiblee-2/feed/
+21:57:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Feliad-inbar-tangiblee-2%2F
+21:57:32	Warning: 	HTML file (784 bytes) retransferred due to lack of cache: https://melodietang.com/blog/hillary-sawchuk-a-drink-with/feed/
+21:57:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Feliad-inbar-tangiblee-2%2F&format=xml
+21:57:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhillary-sawchuk-a-drink-with%2F
+21:57:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhillary-sawchuk-a-drink-with%2F&format=xml
+21:57:35	Warning: 	HTML file (772 bytes) retransferred due to lack of cache: https://melodietang.com/blog/jason-kunesh-public-good/feed/
+21:57:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjason-kunesh-public-good%2F&format=xml
+21:57:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjason-kunesh-public-good%2F
+21:57:40	Warning: 	HTML file (772 bytes) retransferred due to lack of cache: https://melodietang.com/blog/jay-savsani-meal-sharing/feed/
+21:57:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjay-savsani-meal-sharing%2F
+21:57:46	Warning: 	HTML file (828 bytes) retransferred due to lack of cache: https://melodietang.com/blog/jeremy-balboni-brooklyn-boulders-chicago/feed/
+21:57:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjay-savsani-meal-sharing%2F&format=xml
+21:57:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjeremy-balboni-brooklyn-boulders-chicago%2F
+21:57:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjeremy-balboni-brooklyn-boulders-chicago%2F&format=xml
+21:57:51	Warning: 	HTML file (772 bytes) retransferred due to lack of cache: https://melodietang.com/blog/jeremy-klein-table-savvy/feed/
+21:57:53	Warning: 	HTML file (760 bytes) retransferred due to lack of cache: https://melodietang.com/blog/jimmy-odom-wedeliver/feed/
+21:57:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjeremy-klein-table-savvy%2F&format=xml
+21:57:55	Warning: 	HTML file (802 bytes) retransferred due to lack of cache: https://melodietang.com/blog/julie-schumacher-well-turned-words/feed/
+21:57:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjimmy-odom-wedeliver%2F&format=xml
+21:57:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Dancing+Script
+21:57:58	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://melodietang.com/blog/kathryn-pisco-unearth-the-world/feed/
+21:57:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjulie-schumacher-well-turned-words%2F&format=xml
+21:57:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fjulie-schumacher-well-turned-words%2F
+21:58:00	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://melodietang.com/blog/katie-hench-infiniteach/feed/
+21:58:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkathryn-pisco-unearth-the-world%2F
+21:58:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkathryn-pisco-unearth-the-world%2F&format=xml
+21:58:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://melodietang.com/wp-includes/js/wp-embed.min.js?ver=4.7.29 (from https://melodietang.com/)
+21:58:03	Warning: 	Warning: store text/css without scan: /home/nemanja/Desktop/eirc_upwork/gmpg.org/xfn/default.css
+21:58:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkatie-hench-infiniteach%2F
+21:58:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fresume-2%2F&format=xml
+21:58:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkatie-hench-infiniteach%2F&format=xml
+21:58:06	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://melodietang.com/?p=1098
+21:58:06	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://melodietang.com/blog/katlin-smith-simple-mills/feed/
+21:58:08	Warning: 	Moved Permanently for https://melodietang.com/?p=1098
+21:58:08	Warning: 	File has moved from https://melodietang.com/?p=1098 to https://melodietang.com/be-like-peter-project/
+21:58:10	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://melodietang.com/blog/kris-petersen-mac-and-mia/feed/
+21:58:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkatlin-smith-simple-mills%2F
+21:58:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkatlin-smith-simple-mills%2F&format=xml
+21:58:12	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://melodietang.com/?p=467
+21:58:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkris-petersen-mac-and-mia%2F
+21:58:13	Warning: 	HTML file (786 bytes) retransferred due to lack of cache: https://melodietang.com/blog/lauren-katzberg-the-stylisted/feed/
+21:58:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fkris-petersen-mac-and-mia%2F&format=xml
+21:58:17	Warning: 	Moved Permanently for https://melodietang.com/?p=467
+21:58:17	Warning: 	File has moved from https://melodietang.com/?p=467 to https://melodietang.com/stuck-at-home/
+21:58:17	Error: 	"Not Found" (404) at link https://www.google.com/calendar/images/ext/gc_button1_en.gif (from https://melodietang.com/stuck-at-home/)
+21:58:17	Warning: 	HTML file (17457 bytes) retransferred due to lack of cache: https://melodietang.com/hospital-bag-retro/
+21:58:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Flauren-katzberg-the-stylisted%2F
+21:58:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Flauren-katzberg-the-stylisted%2F&format=xml
+21:58:22	Warning: 	HTML file (726 bytes) retransferred due to lack of cache: https://melodietang.com/blog/levi-baer/feed/
+21:58:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Flevi-baer%2F
+21:58:26	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: https://melodietang.com/blog/martin-mcgovern-and-rajiv-nathan-idea-lemon/feed/
+21:58:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Flevi-baer%2F&format=xml
+21:58:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fmartin-mcgovern-and-rajiv-nathan-idea-lemon%2F
+21:58:28	Warning: 	HTML file (748 bytes) retransferred due to lack of cache: https://melodietang.com/blog/mike-garg-gozent/feed/
+21:58:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fmartin-mcgovern-and-rajiv-nathan-idea-lemon%2F&format=xml
+21:58:30	Warning: 	HTML file (757 bytes) retransferred due to lack of cache: https://melodietang.com/blog/mike-preuss-visible/feed/
+21:58:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fmike-garg-gozent%2F&format=xml
+21:58:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fmike-garg-gozent%2F
+21:58:32	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://melodietang.com/blog/neal-sales-griffin-starter-league/feed/
+21:58:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fmike-preuss-visible%2F
+21:58:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fmike-preuss-visible%2F&format=xml
+21:58:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fneal-sales-griffin-starter-league%2F
+21:58:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fneal-sales-griffin-starter-league%2F&format=xml
+21:58:35	Warning: 	HTML file (761 bytes) retransferred due to lack of cache: https://melodietang.com/blog/nicole-yeary-ms-tech/feed/
+21:58:36	Warning: 	HTML file (772 bytes) retransferred due to lack of cache: https://melodietang.com/blog/raj-karmani-zero-percent/feed/
+21:58:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fnicole-yeary-ms-tech%2F
+21:58:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fnicole-yeary-ms-tech%2F&format=xml
+21:58:39	Warning: 	HTML file (762 bytes) retransferred due to lack of cache: https://melodietang.com/blog/riana-lynn-food-trace/feed/
+21:58:39	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://melodietang.com/?p=822
+21:58:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fraj-karmani-zero-percent%2F
+21:58:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fraj-karmani-zero-percent%2F&format=xml
+21:58:42	Warning: 	Moved Permanently for https://melodietang.com/?p=822
+21:58:42	Warning: 	File has moved from https://melodietang.com/?p=822 to https://melodietang.com/blog/aaron-frazin-charlie-app/
+21:58:42	Warning: 	HTML file (760 bytes) retransferred due to lack of cache: https://melodietang.com/blog/rose-afriyie-mrelief/feed/
+21:58:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Friana-lynn-food-trace%2F
+21:58:43	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/Aaronbowtiecrop2.jpg (from https://melodietang.com/blog/aaron-frazin-charlie-app/)
+21:58:43	Warning: 	HTML file (16500 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-may/
+21:58:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Friana-lynn-food-trace%2F&format=xml
+21:58:45	Warning: 	HTML file (760 bytes) retransferred due to lack of cache: https://melodietang.com/blog/ross-petersen-blitsy/feed/
+21:58:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Frose-afriyie-mrelief%2F
+21:58:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Frose-afriyie-mrelief%2F&format=xml
+21:58:47	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/Brian-Hill-final-1.jpg (from https://melodietang.com/blog/brian-hill-jail-education-solutions/)
+21:58:47	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://melodietang.com/blog/sarah-press-project-fixup/feed/
+21:58:48	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://melodietang.com/?p=838
+21:58:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fross-petersen-blitsy%2F
+21:58:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fross-petersen-blitsy%2F&format=xml
+21:58:49	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://melodietang.com/blog/shannon-downey-pivotal-production/feed/
+21:58:49	Warning: 	Moved Permanently for https://melodietang.com/?p=838
+21:58:49	Warning: 	File has moved from https://melodietang.com/?p=838 to https://melodietang.com/blog/chris-mantz-drift-eyewear/
+21:58:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fsarah-press-project-fixup%2F
+21:58:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fsarah-press-project-fixup%2F&format=xml
+21:58:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fshannon-downey-pivotal-production%2F
+21:58:52	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/chris-mantz.png (from https://melodietang.com/blog/chris-mantz-drift-eyewear/)
+21:58:53	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: https://melodietang.com/?p=812
+21:58:53	Warning: 	HTML file (778 bytes) retransferred due to lack of cache: https://melodietang.com/blog/shiv-rajendran-totus-power/feed/
+21:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fshannon-downey-pivotal-production%2F&format=xml
+21:58:55	Warning: 	Moved Permanently for https://melodietang.com/?p=812
+21:58:55	Warning: 	File has moved from https://melodietang.com/?p=812 to https://melodietang.com/blog/claire-lew-know-your-company/
+21:58:55	Warning: 	HTML file (790 bytes) retransferred due to lack of cache: https://melodietang.com/blog/steven-dyme-flowers-for-dreams/feed/
+21:58:56	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/portrait-blog-claire-web.jpg (from https://melodietang.com/blog/claire-lew-know-your-company/)
+21:58:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fshiv-rajendran-totus-power%2F
+21:58:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fshiv-rajendran-totus-power%2F&format=xml
+21:58:58	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: https://melodietang.com/?p=826
+21:58:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fsteven-dyme-flowers-for-dreams%2F
+21:58:58	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://melodietang.com/blog/shivani-jain-fitness-cubed/feed/
+21:59:00	Warning: 	Moved Permanently for https://melodietang.com/?p=826
+21:59:00	Warning: 	File has moved from https://melodietang.com/?p=826 to https://melodietang.com/blog/corbett-drummey-popular-pays/
+21:59:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fsteven-dyme-flowers-for-dreams%2F&format=xml
+21:59:01	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Corbett2.jpg (from https://melodietang.com/blog/corbett-drummey-popular-pays/)
+21:59:01	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://melodietang.com/blog/ted-gonder-moneythink/feed/
+21:59:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fshivani-jain-fitness-cubed%2F
+21:59:02	Warning: 	HTML file (18067 bytes) retransferred due to lack of cache: https://melodietang.com/blog/eliad-inbar-tangiblee/
+21:59:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fshivani-jain-fitness-cubed%2F&format=xml
+21:59:03	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://melodietang.com/blog/tiffaney-florentine-trodo/feed/
+21:59:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fted-gonder-moneythink%2F
+21:59:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fted-gonder-moneythink%2F&format=xml
+21:59:05	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Dan-Novaes-2.jpg (from https://melodietang.com/blog/dan-novaes-mobilex-labs/)
+21:59:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Ftiffaney-florentine-trodo%2F
+21:59:06	Warning: 	HTML file (14091 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-feb-2015/
+21:59:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Ftiffaney-florentine-trodo%2F&format=xml
+21:59:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fhospital-bag-retro%2F
+21:59:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fhospital-bag-retro%2F&format=xml
+21:59:09	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/DeepakGoel.jpg (from https://melodietang.com/blog/deepak-goel-karmacircles/)
+21:59:10	Warning: 	HTML file (14721 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-june-2015/
+21:59:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fdoulas%2F
+21:59:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fdoulas%2F&format=xml
+21:59:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fday-1-stuff-list%2F
+21:59:12	Warning: 	HTML file (13614 bytes) retransferred due to lack of cache: https://melodietang.com/blog/author/melodieadmin/
+21:59:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fpost-delivery-support%2F
+21:59:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fday-1-stuff-list%2F&format=xml
+21:59:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fpost-delivery-support%2F&format=xml
+21:59:14	Warning: 	HTML file (15049 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-april-2015/
+21:59:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fbreastfeeding%2F
+21:59:14	Warning: 	HTML file (84230 bytes) retransferred due to lack of cache: https://melodietang.com/blog/author/belikepeter/feed/
+21:59:15	Warning: 	HTML file (86951 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/chicago/feed/
+21:59:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fbreastfeeding%2F&format=xml
+21:59:17	Warning: 	HTML file (29776 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/chicago-founders-circle/feed/
+21:59:17	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Sawchuk-2.jpg (from https://melodietang.com/blog/hillary-sawchuk-a-drink-with/)
+21:59:17	Warning: 	HTML file (80937 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/startups/feed/
+21:59:19	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://melodietang.com/?p=663
+21:59:19	Warning: 	HTML file (64742 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/uncategorized/feed/
+21:59:20	Warning: 	HTML file (778 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-may/feed/
+21:59:21	Warning: 	Moved Permanently for https://melodietang.com/?p=663
+21:59:21	Warning: 	File has moved from https://melodietang.com/?p=663 to https://melodietang.com/blog/jason-kunesh-public-good/
+21:59:21	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/06/jason-kunesh.jpg (from https://melodietang.com/blog/jason-kunesh-public-good/)
+21:59:22	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://melodietang.com/?p=818
+21:59:23	Warning: 	HTML file (39025 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/education/feed/
+21:59:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-may%2F
+21:59:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-may%2F&format=xml
+21:59:24	Warning: 	Moved Permanently for https://melodietang.com/?p=818
+21:59:24	Warning: 	File has moved from https://melodietang.com/?p=818 to https://melodietang.com/blog/jay-savsani-meal-sharing/
+21:59:24	Warning: 	HTML file (50984 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/impact-engine/feed/
+21:59:24	Warning: 	HTML file (76609 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/social-enterprise/feed/
+21:59:25	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/Jay.png (from https://melodietang.com/blog/jay-savsani-meal-sharing/)
+21:59:25	Warning: 	HTML file (9478 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/manufacturing/feed/
+21:59:25	Warning: 	HTML file (15833 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-jan-2015/
+21:59:27	Warning: 	HTML file (86006 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/female-entrepreneurs/feed/
+21:59:27	Warning: 	HTML file (26887 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/e-commerce/feed/
+21:59:27	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://melodietang.com/blog/eliad-inbar-tangiblee/feed/
+21:59:30	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/Jeremy-Balboni-final.jpg (from https://melodietang.com/blog/jeremy-balboni-brooklyn-boulders-chicago/)
+21:59:30	Warning: 	HTML file (788 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-feb-2015/feed/
+21:59:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Feliad-inbar-tangiblee%2F
+21:59:30	Warning: 	HTML file (13193 bytes) retransferred due to lack of cache: https://melodietang.com/blog/happy-thanksgiving/
+21:59:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Feliad-inbar-tangiblee%2F&format=xml
+21:59:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-feb-2015%2F
+21:59:34	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-june-2015/feed/
+21:59:34	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/Jeremy-Klein-Table-Savvy-Sketch.jpg (from https://melodietang.com/blog/jeremy-klein-table-savvy/)
+21:59:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-feb-2015%2F&format=xml
+21:59:36	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/Jeremy-Klein-Table-Savvy-Color.jpg (from https://melodietang.com/blog/jeremy-klein-table-savvy/)
+21:59:36	Warning: 	HTML file (11630 bytes) retransferred due to lack of cache: https://melodietang.com/blog/author/melodieadmin/feed/
+21:59:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-june-2015%2F
+21:59:37	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://melodietang.com/?p=28
+21:59:37	Warning: 	HTML file (34156 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/tech-stars/feed/
+21:59:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-june-2015%2F&format=xml
+21:59:38	Warning: 	HTML file (794 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-april-2015/feed/
+21:59:39	Warning: 	Moved Permanently for https://melodietang.com/?p=28
+21:59:39	Warning: 	File has moved from https://melodietang.com/?p=28 to https://melodietang.com/blog/jimmy-odom-wedeliver/
+21:59:40	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/jimmy-odom-we-deliver.jpg (from https://melodietang.com/blog/jimmy-odom-wedeliver/)
+21:59:40	Warning: 	HTML file (83717 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/1871/feed/
+21:59:41	Warning: 	HTML file (9354 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/sharing-economy/feed/
+21:59:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-april-2015%2F
+21:59:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-april-2015%2F&format=xml
+21:59:42	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/image.png (from https://melodietang.com/blog/jimmy-odom-wedeliver/)
+21:59:42	Warning: 	HTML file (788 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-jan-2015/feed/
+21:59:43	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: https://melodietang.com/?p=701
+21:59:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-jan-2015%2F
+21:59:45	Warning: 	HTML file (36588 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/health-and-wellness/feed/
+21:59:45	Warning: 	Moved Permanently for https://melodietang.com/?p=701
+21:59:45	Warning: 	File has moved from https://melodietang.com/?p=701 to https://melodietang.com/blog/julie-schumacher-well-turned-words/
+21:59:45	Warning: 	HTML file (753 bytes) retransferred due to lack of cache: https://melodietang.com/blog/happy-thanksgiving/feed/
+21:59:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-jan-2015%2F&format=xml
+21:59:46	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/08/Portrait.jpg (from https://melodietang.com/blog/julie-schumacher-well-turned-words/)
+21:59:47	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://melodietang.com/?p=837
+21:59:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhappy-thanksgiving%2F
+21:59:48	Warning: 	HTML file (21150 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/tech-week/feed/
+21:59:49	Warning: 	Moved Permanently for https://melodietang.com/?p=837
+21:59:49	Warning: 	File has moved from https://melodietang.com/?p=837 to https://melodietang.com/blog/kathryn-pisco-unearth-the-world/
+21:59:49	Warning: 	HTML file (33834 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/community/feed/
+21:59:49	Warning: 	HTML file (9614 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/food/feed/
+21:59:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhappy-thanksgiving%2F&format=xml
+21:59:50	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/Kathryn-Pisco-final-web.jpg (from https://melodietang.com/blog/kathryn-pisco-unearth-the-world/)
+21:59:50	Warning: 	HTML file (9627 bytes) retransferred due to lack of cache: https://melodietang.com/blog/tag/chicago-booth/feed/
+21:59:51	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: https://melodietang.com/?p=813
+21:59:52	Warning: 	HTML file (9623 bytes) retransferred due to lack of cache: https://melodietang.com/blog/tag/gluten-free/feed/
+21:59:52	Warning: 	HTML file (9623 bytes) retransferred due to lack of cache: https://melodietang.com/blog/tag/new-venture/feed/
+21:59:53	Warning: 	Moved Permanently for https://melodietang.com/?p=813
+21:59:53	Warning: 	File has moved from https://melodietang.com/?p=813 to https://melodietang.com/blog/katie-hench-infiniteach/
+21:59:53	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://melodietang.com/blog/elizabeth-peterson-eastwood-group/feed/
+21:59:54	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/katie-hench-01.png (from https://melodietang.com/blog/katie-hench-infiniteach/)
+21:59:54	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://melodietang.com/?p=835
+21:59:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Felizabeth-peterson-eastwood-group%2F
+21:59:56	Warning: 	HTML file (802 bytes) retransferred due to lack of cache: https://melodietang.com/blog/happy-holidays-and-merry-christmas/feed/
+21:59:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Felizabeth-peterson-eastwood-group%2F&format=xml
+21:59:58	Warning: 	Moved Permanently for https://melodietang.com/?p=835
+21:59:58	Warning: 	File has moved from https://melodietang.com/?p=835 to https://melodietang.com/blog/katlin-smith-simple-mills/
+21:59:58	Warning: 	HTML file (742 bytes) retransferred due to lack of cache: https://melodietang.com/blog/happy-new-year/feed/
+21:59:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhappy-holidays-and-merry-christmas%2F
+21:59:59	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Katlin-final.jpg (from https://melodietang.com/blog/katlin-smith-simple-mills/)
+22:00:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhappy-holidays-and-merry-christmas%2F&format=xml
+22:00:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhappy-new-year%2F
+22:00:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fhappy-new-year%2F&format=xml
+22:00:01	Warning: 	HTML file (19043 bytes) retransferred due to lack of cache: https://melodietang.com/blog/elizabeth-peterson-eastwood-group/
+22:00:01	Warning: 	HTML file (9100 bytes) retransferred due to lack of cache: https://melodietang.com/blog/tag/kelley-school-of-business/feed/
+22:00:02	Warning: 	HTML file (9078 bytes) retransferred due to lack of cache: https://melodietang.com/blog/tag/orr-fellowship/feed/
+22:00:02	Warning: 	HTML file (9080 bytes) retransferred due to lack of cache: https://melodietang.com/blog/tag/venture-capital/feed/
+22:00:03	Warning: 	HTML file (21322 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/nonprofit/feed/
+22:00:05	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/10/kris-petersen-1.png (from https://melodietang.com/blog/kris-petersen-mac-and-mia/)
+22:00:05	Warning: 	HTML file (794 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-march-2015/feed/
+22:00:06	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: https://melodietang.com/?p=811
+22:00:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-march-2015%2F&format=xml
+22:00:07	Warning: 	HTML file (9345 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/healthbox/feed/
+22:00:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fthrow-back-thursdays-march-2015%2F
+22:00:08	Warning: 	Moved Permanently for https://melodietang.com/?p=811
+22:00:08	Warning: 	File has moved from https://melodietang.com/?p=811 to https://melodietang.com/blog/lauren-katzberg-the-stylisted/
+22:00:08	Warning: 	HTML file (757 bytes) retransferred due to lack of cache: https://melodietang.com/blog/ben-rosenfield-hero/feed/
+22:00:09	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/Laura-Katzberg.jpg (from https://melodietang.com/blog/lauren-katzberg-the-stylisted/)
+22:00:10	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://melodietang.com/?p=689
+22:00:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fben-rosenfield-hero%2F
+22:00:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://melodietang.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmelodietang.com%2Fblog%2Fben-rosenfield-hero%2F&format=xml
+22:00:12	Warning: 	HTML file (25708 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/throw-back-thursdays/feed/
+22:00:12	Warning: 	Moved Permanently for https://melodietang.com/?p=689
+22:00:12	Warning: 	File has moved from https://melodietang.com/?p=689 to https://melodietang.com/blog/levi-baer/
+22:00:13	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/07/levi-baer.jpg (from https://melodietang.com/blog/levi-baer/)
+22:00:14	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: https://melodietang.com/?p=719
+22:00:17	Warning: 	Moved Permanently for https://melodietang.com/?p=719
+22:00:17	Warning: 	File has moved from https://melodietang.com/?p=719 to https://melodietang.com/blog/martin-mcgovern-and-rajiv-nathan-idea-lemon/
+22:00:18	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/09/martin-rajiv.png (from https://melodietang.com/blog/martin-mcgovern-and-rajiv-nathan-idea-lemon/)
+22:00:19	Warning: 	HTML file (13210 bytes) retransferred due to lack of cache: https://melodietang.com/blog/happy-holidays-and-merry-christmas/
+22:00:22	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/2014-11-28-MayankGarg.jpg (from https://melodietang.com/blog/mike-garg-gozent/)
+22:00:23	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://melodietang.com/?p=834
+22:00:24	Warning: 	Moved Permanently for https://melodietang.com/?p=834
+22:00:24	Warning: 	File has moved from https://melodietang.com/?p=834 to https://melodietang.com/blog/mike-preuss-visible/
+22:00:24	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Mike-Preuss-BB15.jpg (from https://melodietang.com/blog/mike-preuss-visible/)
+22:00:24	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: https://melodietang.com/?p=817
+22:00:26	Warning: 	Moved Permanently for https://melodietang.com/?p=817
+22:00:26	Warning: 	File has moved from https://melodietang.com/?p=817 to https://melodietang.com/blog/neal-sales-griffin-starter-league/
+22:00:26	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/neal-sales-griffin.jpg (from https://melodietang.com/blog/neal-sales-griffin-starter-league/)
+22:00:26	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://melodietang.com/?p=743
+22:00:27	Warning: 	Moved Permanently for https://melodietang.com/?p=743
+22:00:27	Warning: 	File has moved from https://melodietang.com/?p=743 to https://melodietang.com/blog/nicole-yeary-ms-tech/
+22:00:27	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/11/Ms-Tech-1.jpg (from https://melodietang.com/blog/nicole-yeary-ms-tech/)
+22:00:27	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://melodietang.com/?p=819
+22:00:29	Warning: 	Moved Permanently for https://melodietang.com/?p=819
+22:00:29	Warning: 	File has moved from https://melodietang.com/?p=819 to https://melodietang.com/blog/raj-karmani-zero-percent/
+22:00:29	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/2014-12-20-RajKarmani.jpg (from https://melodietang.com/blog/raj-karmani-zero-percent/)
+22:00:29	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://melodietang.com/?p=832
+22:00:31	Warning: 	Moved Permanently for https://melodietang.com/?p=832
+22:00:31	Warning: 	File has moved from https://melodietang.com/?p=832 to https://melodietang.com/blog/riana-lynn-food-trace/
+22:00:31	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Riana-Lynn-2.png (from https://melodietang.com/blog/riana-lynn-food-trace/)
+22:00:31	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://melodietang.com/?p=704
+22:00:32	Warning: 	Moved Permanently for https://melodietang.com/?p=704
+22:00:32	Warning: 	File has moved from https://melodietang.com/?p=704 to https://melodietang.com/blog/rose-afriyie-mrelief/
+22:00:32	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/08/portrait-4.jpg (from https://melodietang.com/blog/rose-afriyie-mrelief/)
+22:00:32	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://melodietang.com/?p=824
+22:00:34	Warning: 	Moved Permanently for https://melodietang.com/?p=824
+22:00:34	Warning: 	File has moved from https://melodietang.com/?p=824 to https://melodietang.com/blog/ross-petersen-blitsy/
+22:00:34	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/Ross-final-.jpg (from https://melodietang.com/blog/ross-petersen-blitsy/)
+22:00:34	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://melodietang.com/?p=827
+22:00:35	Warning: 	Moved Permanently for https://melodietang.com/?p=827
+22:00:35	Warning: 	File has moved from https://melodietang.com/?p=827 to https://melodietang.com/blog/sarah-press-project-fixup/
+22:00:35	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/2015-02-17-sarahpress-projectfixup.jpg (from https://melodietang.com/blog/sarah-press-project-fixup/)
+22:00:36	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: https://melodietang.com/?p=460
+22:00:37	Warning: 	Moved Permanently for https://melodietang.com/?p=460
+22:00:37	Warning: 	File has moved from https://melodietang.com/?p=460 to https://melodietang.com/blog/shannon-downey-pivotal-production/
+22:00:37	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/DOWNEY2-sq.jpg (from https://melodietang.com/blog/shannon-downey-pivotal-production/)
+22:00:37	Warning: 	HTML file (811 bytes) retransferred due to lack of cache: https://melodietang.com/?p=671
+22:00:39	Warning: 	Moved Permanently for https://melodietang.com/?p=671
+22:00:39	Warning: 	File has moved from https://melodietang.com/?p=671 to https://melodietang.com/blog/shiv-rajendran-totus-power/
+22:00:39	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/06/Shiv-Rajendran.jpg (from https://melodietang.com/blog/shiv-rajendran-totus-power/)
+22:00:39	Warning: 	HTML file (14316 bytes) retransferred due to lack of cache: https://melodietang.com/blog/throw-back-thursdays-march-2015/
+22:00:40	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Dyme.jpg (from https://melodietang.com/blog/steven-dyme-flowers-for-dreams/)
+22:00:40	Warning: 	HTML file (811 bytes) retransferred due to lack of cache: https://melodietang.com/?p=814
+22:00:42	Warning: 	Moved Permanently for https://melodietang.com/?p=814
+22:00:42	Warning: 	File has moved from https://melodietang.com/?p=814 to https://melodietang.com/blog/shivani-jain-fitness-cubed/
+22:00:42	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/ShivaniJain.jpg (from https://melodietang.com/blog/shivani-jain-fitness-cubed/)
+22:00:42	Warning: 	HTML file (20321 bytes) retransferred due to lack of cache: https://melodietang.com/blog/ben-rosenfield-hero/
+22:00:43	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/11/Ted-Gonder-1.jpg (from https://melodietang.com/blog/ted-gonder-moneythink/)
+22:00:43	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://melodietang.com/?p=816
+22:00:45	Warning: 	Moved Permanently for https://melodietang.com/?p=816
+22:00:45	Warning: 	File has moved from https://melodietang.com/?p=816 to https://melodietang.com/blog/tiffaney-florentine-trodo/
+22:00:45	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/Tiffaney.jpg (from https://melodietang.com/blog/tiffaney-florentine-trodo/)
+22:00:45	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://melodietang.com/?p=1009
+22:00:46	Warning: 	Moved Permanently for https://melodietang.com/?p=1009
+22:00:46	Warning: 	File has moved from https://melodietang.com/?p=1009 to https://melodietang.com/doulas/
+22:00:46	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://melodietang.com/?p=1001
+22:00:48	Warning: 	Moved Permanently for https://melodietang.com/?p=1001
+22:00:48	Warning: 	File has moved from https://melodietang.com/?p=1001 to https://melodietang.com/day-1-stuff-list/
+22:00:48	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://melodietang.com/?p=1018
+22:00:49	Warning: 	Moved Permanently for https://melodietang.com/?p=1018
+22:00:49	Warning: 	File has moved from https://melodietang.com/?p=1018 to https://melodietang.com/post-delivery-support/
+22:00:49	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://melodietang.com/?p=1026
+22:00:50	Warning: 	Moved Permanently for https://melodietang.com/?p=1026
+22:00:50	Warning: 	File has moved from https://melodietang.com/?p=1026 to https://melodietang.com/breastfeeding/
+22:00:52	Error: 	"Not Found" (404) at link https://melodietang.com/wp-includes/fonts/dashicons.eot (from https://melodietang.com/wp-admin/load-styles.php?c=0&dir=ltr&load%5B%5D=dashicons,buttons,forms,l10n,login&ver=4.7.29)
+22:00:52	Warning: 	HTML file (24149 bytes) retransferred due to lack of cache: https://melodietang.com/blog/author/belikepeter/page/2/
+22:00:53	Warning: 	HTML file (24387 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/chicago/page/2/
+22:00:54	Warning: 	HTML file (24596 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/startups/page/2/
+22:00:55	Warning: 	HTML file (12859 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/uncategorized/page/2/
+22:00:57	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://melodietang.com/?p=645
+22:00:58	Warning: 	Moved Permanently for https://melodietang.com/?p=645
+22:00:58	Warning: 	File has moved from https://melodietang.com/?p=645 to https://melodietang.com/blog/throw-back-thursdays-may/
+22:00:58	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/TBT-MAY.png (from https://melodietang.com/blog/throw-back-thursdays-may/)
+22:00:58	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/quotes-tbt.png (from https://melodietang.com/blog/throw-back-thursdays-may/)
+22:00:58	Warning: 	HTML file (16403 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/female-entrepreneurs/page/2/
+22:00:59	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://melodietang.com/?p=830
+22:01:01	Warning: 	Moved Permanently for https://melodietang.com/?p=830
+22:01:01	Warning: 	File has moved from https://melodietang.com/?p=830 to https://melodietang.com/blog/eliad-inbar-tangiblee/
+22:01:01	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Inbar-final-web.jpg (from https://melodietang.com/blog/eliad-inbar-tangiblee/)
+22:01:01	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: https://melodietang.com/?p=825
+22:01:02	Warning: 	Moved Permanently for https://melodietang.com/?p=825
+22:01:02	Warning: 	File has moved from https://melodietang.com/?p=825 to https://melodietang.com/blog/throw-back-thursdays-feb-2015/
+22:01:02	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/TBT-Feb.png (from https://melodietang.com/blog/throw-back-thursdays-feb-2015/)
+22:01:02	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://melodietang.com/?p=674
+22:01:04	Warning: 	Moved Permanently for https://melodietang.com/?p=674
+22:01:04	Warning: 	File has moved from https://melodietang.com/?p=674 to https://melodietang.com/blog/throw-back-thursdays-june-2015/
+22:01:04	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/06/tbt-June.png (from https://melodietang.com/blog/throw-back-thursdays-june-2015/)
+22:01:04	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://melodietang.com/?p=836
+22:01:05	Warning: 	Moved Permanently for https://melodietang.com/?p=836
+22:01:05	Warning: 	File has moved from https://melodietang.com/?p=836 to https://melodietang.com/blog/throw-back-thursdays-april-2015/
+22:01:05	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/tbt-april-2.jpg (from https://melodietang.com/blog/throw-back-thursdays-april-2015/)
+22:01:05	Warning: 	HTML file (14783 bytes) retransferred due to lack of cache: https://melodietang.com/blog/category/1871/page/2/
+22:01:07	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: https://melodietang.com/?p=820
+22:01:08	Warning: 	Moved Permanently for https://melodietang.com/?p=820
+22:01:08	Warning: 	File has moved from https://melodietang.com/?p=820 to https://melodietang.com/blog/throw-back-thursdays-jan-2015/
+22:01:08	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/tbt-1.png (from https://melodietang.com/blog/throw-back-thursdays-jan-2015/)
+22:01:08	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://melodietang.com/?p=640
+22:01:10	Warning: 	Moved Permanently for https://melodietang.com/?p=640
+22:01:10	Warning: 	File has moved from https://melodietang.com/?p=640 to https://melodietang.com/blog/happy-thanksgiving/
+22:01:10	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/thanksgiving.png (from https://melodietang.com/blog/happy-thanksgiving/)
+22:01:10	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/turkey.png (from https://melodietang.com/blog/happy-thanksgiving/)
+22:01:10	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: https://melodietang.com/?p=738
+22:01:11	Warning: 	Moved Permanently for https://melodietang.com/?p=738
+22:01:11	Warning: 	File has moved from https://melodietang.com/?p=738 to https://melodietang.com/blog/elizabeth-peterson-eastwood-group/
+22:01:11	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/11/ekizabeth-peterson.png (from https://melodietang.com/blog/elizabeth-peterson-eastwood-group/)
+22:01:11	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: https://melodietang.com/?p=643
+22:01:13	Warning: 	Moved Permanently for https://melodietang.com/?p=643
+22:01:13	Warning: 	File has moved from https://melodietang.com/?p=643 to https://melodietang.com/blog/happy-holidays-and-merry-christmas/
+22:01:13	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/ElfontheShelf.jpg (from https://melodietang.com/blog/happy-holidays-and-merry-christmas/)
+22:01:13	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/merryxmas.png (from https://melodietang.com/blog/happy-holidays-and-merry-christmas/)
+22:01:13	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://melodietang.com/?p=644
+22:01:14	Warning: 	Moved Permanently for https://melodietang.com/?p=644
+22:01:14	Warning: 	File has moved from https://melodietang.com/?p=644 to https://melodietang.com/blog/happy-new-year/
+22:01:14	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/newyear.png (from https://melodietang.com/blog/happy-new-year/)
+22:01:14	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/new-year-Cat.png (from https://melodietang.com/blog/happy-new-year/)
+22:01:14	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://melodietang.com/?p=829
+22:01:16	Warning: 	Moved Permanently for https://melodietang.com/?p=829
+22:01:16	Warning: 	File has moved from https://melodietang.com/?p=829 to https://melodietang.com/blog/throw-back-thursdays-march-2015/
+22:01:16	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Mar-tbt1.png (from https://melodietang.com/blog/throw-back-thursdays-march-2015/)
+22:01:16	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://melodietang.com/?p=763
+22:01:17	Warning: 	Moved Permanently for https://melodietang.com/?p=763
+22:01:17	Warning: 	File has moved from https://melodietang.com/?p=763 to https://melodietang.com/blog/ben-rosenfield-hero/
+22:01:17	Error: 	"Not Found" (404) at link https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAALaAAAAJDM4OGM3NmI3LTUyNjktNDIyNy05MjI2LWNmYWM3NzdlNDliYg.jpg (from https://melodietang.com/blog/ben-rosenfield-hero/)
+22:01:17	Warning: 	HTML file (2807 bytes) retransferred due to lack of cache: https://melodietang.com/wp-login.php?redirect_to=https%3A%2F%2Fmelodietang.com%2Fwp-admin%2F%26reauth=1
+22:01:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://melodietang.com/wp-content/themes/bold-headline/font/genericons-regular-webfont.eot? (from https://melodietang.com/wp-content/themes/bold-headline/style.css?ver=4.7.29)
+22:01:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://melodietang.com/wp-includes/js/mediaelement/bigplay.png (from https://melodietang.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0)
+22:01:18	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/Aaronbowtiecrop2.jpg (from https://melodietang.com/blog/aaron-frazin-charlie-app/)
+22:01:18	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/Brian-Hill-final-1.jpg (from https://melodietang.com/blog/brian-hill-jail-education-solutions/)
+22:01:20	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/chris-mantz.png (from https://melodietang.com/blog/chris-mantz-drift-eyewear/)
+22:01:20	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/portrait-blog-claire-web.jpg (from https://melodietang.com/blog/claire-lew-know-your-company/)
+22:01:21	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Corbett2.jpg (from https://melodietang.com/blog/corbett-drummey-popular-pays/)
+22:01:21	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Dan-Novaes-2.jpg (from https://melodietang.com/blog/dan-novaes-mobilex-labs/)
+22:01:21	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/DeepakGoel.jpg (from https://melodietang.com/blog/deepak-goel-karmacircles/)
+22:01:21	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Sawchuk-2.jpg (from https://melodietang.com/blog/hillary-sawchuk-a-drink-with/)
+22:01:22	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/06/jason-kunesh.jpg (from https://melodietang.com/blog/jason-kunesh-public-good/)
+22:01:22	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/Jay.png (from https://melodietang.com/blog/jay-savsani-meal-sharing/)
+22:01:23	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/Jeremy-Balboni-final.jpg (from https://melodietang.com/blog/jeremy-balboni-brooklyn-boulders-chicago/)
+22:01:23	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/Jeremy-Klein-Table-Savvy-Sketch.jpg (from https://melodietang.com/blog/jeremy-klein-table-savvy/)
+22:01:23	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/Jeremy-Klein-Table-Savvy-Color.jpg (from https://melodietang.com/blog/jeremy-klein-table-savvy/)
+22:01:23	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/jimmy-odom-we-deliver.jpg (from https://melodietang.com/blog/jimmy-odom-wedeliver/)
+22:01:24	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/image.png (from https://melodietang.com/blog/jimmy-odom-wedeliver/)
+22:01:24	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/08/Portrait.jpg (from https://melodietang.com/blog/julie-schumacher-well-turned-words/)
+22:01:24	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/Kathryn-Pisco-final-web.jpg (from https://melodietang.com/blog/kathryn-pisco-unearth-the-world/)
+22:01:24	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/katie-hench-01.png (from https://melodietang.com/blog/katie-hench-infiniteach/)
+22:01:25	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Katlin-final.jpg (from https://melodietang.com/blog/katlin-smith-simple-mills/)
+22:01:25	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/10/kris-petersen-1.png (from https://melodietang.com/blog/kris-petersen-mac-and-mia/)
+22:01:25	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/Laura-Katzberg.jpg (from https://melodietang.com/blog/lauren-katzberg-the-stylisted/)
+22:01:25	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/07/levi-baer.jpg (from https://melodietang.com/blog/levi-baer/)
+22:01:26	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/09/martin-rajiv.png (from https://melodietang.com/blog/martin-mcgovern-and-rajiv-nathan-idea-lemon/)
+22:01:26	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/2014-11-28-MayankGarg.jpg (from https://melodietang.com/blog/mike-garg-gozent/)
+22:01:26	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Mike-Preuss-BB15.jpg (from https://melodietang.com/blog/mike-preuss-visible/)
+22:01:26	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/neal-sales-griffin.jpg (from https://melodietang.com/blog/neal-sales-griffin-starter-league/)
+22:01:27	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/11/Ms-Tech-1.jpg (from https://melodietang.com/blog/nicole-yeary-ms-tech/)
+22:01:27	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/2014-12-20-RajKarmani.jpg (from https://melodietang.com/blog/raj-karmani-zero-percent/)
+22:01:27	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/Riana-Lynn-2.png (from https://melodietang.com/blog/riana-lynn-food-trace/)
+22:01:27	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/08/portrait-4.jpg (from https://melodietang.com/blog/rose-afriyie-mrelief/)
+22:01:28	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/Ross-final-.jpg (from https://melodietang.com/blog/ross-petersen-blitsy/)
+22:01:28	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/2015-02-17-sarahpress-projectfixup.jpg (from https://melodietang.com/blog/sarah-press-project-fixup/)
+22:01:28	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/DOWNEY2-sq.jpg (from https://melodietang.com/blog/shannon-downey-pivotal-production/)
+22:01:28	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/06/Shiv-Rajendran.jpg (from https://melodietang.com/blog/shiv-rajendran-totus-power/)
+22:01:29	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Dyme.jpg (from https://melodietang.com/blog/steven-dyme-flowers-for-dreams/)
+22:01:29	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/ShivaniJain.jpg (from https://melodietang.com/blog/shivani-jain-fitness-cubed/)
+22:01:29	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/11/Ted-Gonder-1.jpg (from https://melodietang.com/blog/ted-gonder-moneythink/)
+22:01:29	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/Tiffaney.jpg (from https://melodietang.com/blog/tiffaney-florentine-trodo/)
+22:01:30	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/05/TBT-MAY.png (from https://melodietang.com/blog/throw-back-thursdays-may/)
+22:01:30	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/quotes-tbt.png (from https://melodietang.com/blog/throw-back-thursdays-may/)
+22:01:30	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Inbar-final-web.jpg (from https://melodietang.com/blog/eliad-inbar-tangiblee/)
+22:01:30	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/02/TBT-Feb.png (from https://melodietang.com/blog/throw-back-thursdays-feb-2015/)
+22:01:31	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/06/tbt-June.png (from https://melodietang.com/blog/throw-back-thursdays-june-2015/)
+22:01:31	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/04/tbt-april-2.jpg (from https://melodietang.com/blog/throw-back-thursdays-april-2015/)
+22:01:31	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/tbt-1.png (from https://melodietang.com/blog/throw-back-thursdays-jan-2015/)
+22:01:31	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/thanksgiving.png (from https://melodietang.com/blog/happy-thanksgiving/)
+22:01:32	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/11/turkey.png (from https://melodietang.com/blog/happy-thanksgiving/)
+22:01:32	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/11/ekizabeth-peterson.png (from https://melodietang.com/blog/elizabeth-peterson-eastwood-group/)
+22:01:32	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/ElfontheShelf.jpg (from https://melodietang.com/blog/happy-holidays-and-merry-christmas/)
+22:01:32	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/merryxmas.png (from https://melodietang.com/blog/happy-holidays-and-merry-christmas/)
+22:01:33	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/01/newyear.png (from https://melodietang.com/blog/happy-new-year/)
+22:01:33	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2014/12/new-year-Cat.png (from https://melodietang.com/blog/happy-new-year/)
+22:01:33	Warning: 	Retry after error -4 (No data (connection closed)) at link belikepeter.com/wp-content/uploads/2015/03/Mar-tbt1.png (from https://melodietang.com/blog/throw-back-thursdays-march-2015/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/02/Aaronbowtiecrop2.jpg (from https://melodietang.com/blog/aaron-frazin-charlie-app/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/05/Brian-Hill-final-1.jpg (from https://melodietang.com/blog/brian-hill-jail-education-solutions/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/05/chris-mantz.png (from https://melodietang.com/blog/chris-mantz-drift-eyewear/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/portrait-blog-claire-web.jpg (from https://melodietang.com/blog/claire-lew-know-your-company/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/03/Corbett2.jpg (from https://melodietang.com/blog/corbett-drummey-popular-pays/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/04/Dan-Novaes-2.jpg (from https://melodietang.com/blog/dan-novaes-mobilex-labs/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/02/DeepakGoel.jpg (from https://melodietang.com/blog/deepak-goel-karmacircles/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/04/Sawchuk-2.jpg (from https://melodietang.com/blog/hillary-sawchuk-a-drink-with/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/06/jason-kunesh.jpg (from https://melodietang.com/blog/jason-kunesh-public-good/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/01/Jay.png (from https://melodietang.com/blog/jay-savsani-meal-sharing/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/01/Jeremy-Balboni-final.jpg (from https://melodietang.com/blog/jeremy-balboni-brooklyn-boulders-chicago/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/Jeremy-Klein-Table-Savvy-Sketch.jpg (from https://melodietang.com/blog/jeremy-klein-table-savvy/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/Jeremy-Klein-Table-Savvy-Color.jpg (from https://melodietang.com/blog/jeremy-klein-table-savvy/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/jimmy-odom-we-deliver.jpg (from https://melodietang.com/blog/jimmy-odom-wedeliver/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/image.png (from https://melodietang.com/blog/jimmy-odom-wedeliver/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/08/Portrait.jpg (from https://melodietang.com/blog/julie-schumacher-well-turned-words/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/05/Kathryn-Pisco-final-web.jpg (from https://melodietang.com/blog/kathryn-pisco-unearth-the-world/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/katie-hench-01.png (from https://melodietang.com/blog/katie-hench-infiniteach/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/04/Katlin-final.jpg (from https://melodietang.com/blog/katlin-smith-simple-mills/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/10/kris-petersen-1.png (from https://melodietang.com/blog/kris-petersen-mac-and-mia/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/Laura-Katzberg.jpg (from https://melodietang.com/blog/lauren-katzberg-the-stylisted/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/07/levi-baer.jpg (from https://melodietang.com/blog/levi-baer/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/09/martin-rajiv.png (from https://melodietang.com/blog/martin-mcgovern-and-rajiv-nathan-idea-lemon/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/2014-11-28-MayankGarg.jpg (from https://melodietang.com/blog/mike-garg-gozent/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/04/Mike-Preuss-BB15.jpg (from https://melodietang.com/blog/mike-preuss-visible/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/neal-sales-griffin.jpg (from https://melodietang.com/blog/neal-sales-griffin-starter-league/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/11/Ms-Tech-1.jpg (from https://melodietang.com/blog/nicole-yeary-ms-tech/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/01/2014-12-20-RajKarmani.jpg (from https://melodietang.com/blog/raj-karmani-zero-percent/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/04/Riana-Lynn-2.png (from https://melodietang.com/blog/riana-lynn-food-trace/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/08/portrait-4.jpg (from https://melodietang.com/blog/rose-afriyie-mrelief/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/02/Ross-final-.jpg (from https://melodietang.com/blog/ross-petersen-blitsy/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/03/2015-02-17-sarahpress-projectfixup.jpg (from https://melodietang.com/blog/sarah-press-project-fixup/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/01/DOWNEY2-sq.jpg (from https://melodietang.com/blog/shannon-downey-pivotal-production/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/06/Shiv-Rajendran.jpg (from https://melodietang.com/blog/shiv-rajendran-totus-power/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/03/Dyme.jpg (from https://melodietang.com/blog/steven-dyme-flowers-for-dreams/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/ShivaniJain.jpg (from https://melodietang.com/blog/shivani-jain-fitness-cubed/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/11/Ted-Gonder-1.jpg (from https://melodietang.com/blog/ted-gonder-moneythink/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/Tiffaney.jpg (from https://melodietang.com/blog/tiffaney-florentine-trodo/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/05/TBT-MAY.png (from https://melodietang.com/blog/throw-back-thursdays-may/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/01/quotes-tbt.png (from https://melodietang.com/blog/throw-back-thursdays-may/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/03/Inbar-final-web.jpg (from https://melodietang.com/blog/eliad-inbar-tangiblee/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/02/TBT-Feb.png (from https://melodietang.com/blog/throw-back-thursdays-feb-2015/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/06/tbt-June.png (from https://melodietang.com/blog/throw-back-thursdays-june-2015/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/04/tbt-april-2.jpg (from https://melodietang.com/blog/throw-back-thursdays-april-2015/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/01/tbt-1.png (from https://melodietang.com/blog/throw-back-thursdays-jan-2015/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/thanksgiving.png (from https://melodietang.com/blog/happy-thanksgiving/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/11/turkey.png (from https://melodietang.com/blog/happy-thanksgiving/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/11/ekizabeth-peterson.png (from https://melodietang.com/blog/elizabeth-peterson-eastwood-group/)
+22:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/ElfontheShelf.jpg (from https://melodietang.com/blog/happy-holidays-and-merry-christmas/)
+22:01:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/merryxmas.png (from https://melodietang.com/blog/happy-holidays-and-merry-christmas/)
+22:01:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/01/newyear.png (from https://melodietang.com/blog/happy-new-year/)
+22:01:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2014/12/new-year-Cat.png (from https://melodietang.com/blog/happy-new-year/)
+22:01:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link belikepeter.com/wp-content/uploads/2015/03/Mar-tbt1.png (from https://melodietang.com/blog/throw-back-thursdays-march-2015/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 42 seconds : 661 links scanned, 645 files written (133003146 bytes overall) [133533558 bytes received at 162449 bytes/sec], 366503 bytes transferred using HTTP compression in 4 files, ratio 15%, 1.1 requests per connection
+(61 errors, 593 warnings, 0 messages)
